@@ -1,0 +1,16 @@
+F:\FA24\EXE201\Project\EXE201_FA24_BonsaiShop\BonsaiShop\BussinessLayer\bin\Release\net6.0\BussinessLayer.deps.json
+F:\FA24\EXE201\Project\EXE201_FA24_BonsaiShop\BonsaiShop\BussinessLayer\bin\Release\net6.0\BussinessLayer.dll
+F:\FA24\EXE201\Project\EXE201_FA24_BonsaiShop\BonsaiShop\BussinessLayer\bin\Release\net6.0\BussinessLayer.pdb
+F:\FA24\EXE201\Project\EXE201_FA24_BonsaiShop\BonsaiShop\BussinessLayer\bin\Release\net6.0\DataLayer.dll
+F:\FA24\EXE201\Project\EXE201_FA24_BonsaiShop\BonsaiShop\BussinessLayer\bin\Release\net6.0\DataLayer.pdb
+F:\FA24\EXE201\Project\EXE201_FA24_BonsaiShop\BonsaiShop\BussinessLayer\obj\Release\net6.0\BussinessLayer.csproj.AssemblyReference.cache
+F:\FA24\EXE201\Project\EXE201_FA24_BonsaiShop\BonsaiShop\BussinessLayer\obj\Release\net6.0\BussinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+F:\FA24\EXE201\Project\EXE201_FA24_BonsaiShop\BonsaiShop\BussinessLayer\obj\Release\net6.0\BussinessLayer.AssemblyInfoInputs.cache
+F:\FA24\EXE201\Project\EXE201_FA24_BonsaiShop\BonsaiShop\BussinessLayer\obj\Release\net6.0\BussinessLayer.AssemblyInfo.cs
+F:\FA24\EXE201\Project\EXE201_FA24_BonsaiShop\BonsaiShop\BussinessLayer\obj\Release\net6.0\BussinessLayer.csproj.CoreCompileInputs.cache
+F:\FA24\EXE201\Project\EXE201_FA24_BonsaiShop\BonsaiShop\BussinessLayer\obj\Release\net6.0\BussinessLayer.sourcelink.json
+F:\FA24\EXE201\Project\EXE201_FA24_BonsaiShop\BonsaiShop\BussinessLayer\obj\Release\net6.0\Bussines.E1038C4E.Up2Date
+F:\FA24\EXE201\Project\EXE201_FA24_BonsaiShop\BonsaiShop\BussinessLayer\obj\Release\net6.0\BussinessLayer.dll
+F:\FA24\EXE201\Project\EXE201_FA24_BonsaiShop\BonsaiShop\BussinessLayer\obj\Release\net6.0\refint\BussinessLayer.dll
+F:\FA24\EXE201\Project\EXE201_FA24_BonsaiShop\BonsaiShop\BussinessLayer\obj\Release\net6.0\BussinessLayer.pdb
+F:\FA24\EXE201\Project\EXE201_FA24_BonsaiShop\BonsaiShop\BussinessLayer\obj\Release\net6.0\ref\BussinessLayer.dll
