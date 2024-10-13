@@ -6,8 +6,13 @@ by editing this MSBuild file. In order to learn more about this please visit htt
 <Project>
   <PropertyGroup>
     <TimeStampOfAssociatedLegacyPublishXmlFile />
-    <EncryptedPassword />
-    <History>True|2024-10-11T18:22:28.5985603Z||;True|2024-10-12T01:17:07.2081524+07:00||;False|2024-10-12T01:16:49.0008557+07:00||;True|2024-10-12T01:14:31.5782933+07:00||;</History>
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAW3jjhyawYU2ewu+6fvhsYgAAAAACAAAAAAAQZgAAAAEAACAAAACjxJjpidhDlml7KFFaVH5bLxUsQD/sC8ynpEQ44yJo4wAAAAAOgAAAAAIAACAAAACSZUnA8N+58ndI/BMwNMZqgKj9BtsFUEfAtZ27UjbOwSAAAABvnHTF2mph+AnqBUmbUnl7cSWg29nPqW3nwwRgjT3QM0AAAAAA7SeYOXClW9n+a2rKLc90LYRJom6Wf6GZnp5pxzCKtze17K7Tft+G/gozma/0m7TTZ3kuKKXmxyQe2Uegn+iZ</EncryptedPassword>
+    <History>True|2024-10-12T17:25:26.8134765Z||;True|2024-10-12T12:07:46.9706374+07:00||;True|2024-10-12T12:06:01.8854462+07:00||;True|2024-10-12T12:04:48.0601365+07:00||;False|2024-10-12T12:04:04.7369310+07:00||;True|2024-10-12T12:02:49.5963330+07:00||;True|2024-10-12T12:02:26.3210396+07:00||;True|2024-10-12T01:22:28.5985603+07:00||;True|2024-10-12T01:17:07.2081524+07:00||;False|2024-10-12T01:16:49.0008557+07:00||;True|2024-10-12T01:14:31.5782933+07:00||;</History>
     <LastFailureDetails />
   </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="hosting">
+      <Value>Data Source=SQL8001.site4now.net%3bInitial Catalog=db_aad141_exe201%3bUser Id=db_aad141_exe201_admin%3bPassword=Luuhiep113%40</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
 </Project>
