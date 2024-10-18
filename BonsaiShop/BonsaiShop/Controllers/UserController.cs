@@ -10,7 +10,7 @@ using X.PagedList;
 
 namespace BonsaiShop.Controllers
 {
-    [Route("API/User/")]
+    [Route("api/User/")]
     [ApiController]
     public class UserController : ControllerBase
     {

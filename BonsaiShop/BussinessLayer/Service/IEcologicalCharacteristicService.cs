@@ -17,7 +17,7 @@ namespace BussinessLayer.Service
         Task<DynamicResponse<EcologicalCharacteristicResponseModel>> GetList(GetAllEcologicalCharacteristicRequestModel model);
         Task<BaseResponse<EcologicalCharacteristicResponseModel>> GetById(int id);
         Task<BaseResponse<EcologicalCharacteristicResponseModel>> Update(int id, UpdateEcologicalCharacteristicRequestModel model);
-        Task<BaseResponse<EcologicalCharacteristicResponseModel>> Delete(int id, bool status);
+        Task<BaseResponse<EcologicalCharacteristicResponseModel>> Delete(int id);
 
     }
 }

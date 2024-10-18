@@ -25,10 +25,13 @@ namespace BonsaiShop.AppStarts
             //AddService
             services.AddScoped<IUserService, UserService>();
             services.AddScoped<IEcologicalCharacteristicService, EcologicalCharacteristicService>();
+            services.AddScoped<ICategoryService, CategoryService>();
 
             //AddRepository
             services.AddScoped<IUserRepositoty, UserRepository>();
             services.AddScoped<IEcologicalCharacteristicRepository, EcologicalCharacteristicRepository>();
+            services.AddScoped<ICategoryRepository, CategoryRepository>();
+
 
         }
     }

@@ -50,7 +50,11 @@ namespace DataLayer.Repository.Implement
         {
             try
             {
-                return await _exe201Context.EcologicalCharacteristics.ToListAsync();
+                return await _exe201Context.EcologicalCharacteristics
+                    .Where(ec => ec.Status == true)
+                    .Include(ec => ec.Categories)
+                        .ThenInclude(c => c.Products)
+                    .ToListAsync();
             }
             catch (Exception ex)
             {
@@ -62,7 +66,11 @@ namespace DataLayer.Repository.Implement
         {
             try
             {
-                return await _exe201Context.EcologicalCharacteristics.FirstOrDefaultAsync(u => u.Id == id);
+                return await _exe201Context.EcologicalCharacteristics
+                    .Include(ec => ec.Categories)
+                        .ThenInclude(c => c.Products)
+                    .Where(ec => ec.Status == true)
+                    .FirstOrDefaultAsync(u => u.Id == id);
             }
             catch (Exception ex)
             {

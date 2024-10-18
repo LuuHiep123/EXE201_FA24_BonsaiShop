@@ -27,19 +27,135 @@ namespace BussinessLayer.Service.Implement
             _configuration = configuration;
             _mapper = mapper;
         }
-        public Task<BaseResponse<EcologicalCharacteristicResponseModel>> Create(CreateEcologicalCharacteristicRequestModel model)
+        public async Task<BaseResponse<EcologicalCharacteristicResponseModel>> Create(CreateEcologicalCharacteristicRequestModel model)
         {
-            throw new NotImplementedException();
+            try
+            {
+                var eco = new EcologicalCharacteristic()
+                {
+                    Name = model.Name,
+                    Desciption = model.Desciption,
+                    Status = true
+                };
+                var query = await _EcoRepository.Create(eco);
+                if (query)
+                {
+                    return new BaseResponse<EcologicalCharacteristicResponseModel>()
+                    {
+                        Code = 200,
+                        Success = true,
+                        Message = "Create EcologicalCharacteristic success!."
+                    };
+                }
+                else
+                {
+                    return new BaseResponse<EcologicalCharacteristicResponseModel>()
+                    {
+                        Code = 500,
+                        Success = false,
+                        Message = "Server error!.",
+                        Data = null,
+                    };
+                }
+            }
+            catch (Exception ex)
+            {
+                return new BaseResponse<EcologicalCharacteristicResponseModel>()
+                {
+                    Code = 500,
+                    Success = false,
+                    Message = "Server error!.",
+                    Data = null,
+                };
+            }
         }
 
-        public Task<BaseResponse<EcologicalCharacteristicResponseModel>> Delete(int id, bool status)
+        public async Task<BaseResponse<EcologicalCharacteristicResponseModel>> Delete(int id)
         {
-            throw new NotImplementedException();
+            try
+            {
+                var Eco = await _EcoRepository.GetById(id);
+                if (Eco == null)
+                {
+                    return new BaseResponse<EcologicalCharacteristicResponseModel>()
+                    {
+                        Code = 404,
+                        Success = false,
+                        Message = "Not found EcologicalCharacteristic!.",
+                        Data = null,
+                    };
+                }
+                Eco.Status = false;
+                var query = await _EcoRepository.Update(Eco);
+                if (query)
+                {
+                    return new BaseResponse<EcologicalCharacteristicResponseModel>()
+                    {
+                        Code = 200,
+                        Success = true,
+                        Message = "Delete EcologicalCharacteristic success!.",
+                        Data = null
+                    };
+                }
+                else
+                {
+                    return new BaseResponse<EcologicalCharacteristicResponseModel>()
+                    {
+                        Code = 500,
+                        Success = false,
+                        Message = "Server error!.",
+                        Data = null,
+                    };
+                }
+            }
+            catch (Exception ex)
+            {
+                return new BaseResponse<EcologicalCharacteristicResponseModel>()
+                {
+                    Code = 500,
+                    Success = false,
+                    Message = "Server error!.",
+                    Data = null,
+                };
+            }
         }
 
-        public Task<BaseResponse<EcologicalCharacteristicResponseModel>> GetById(int id)
+        public async Task<BaseResponse<EcologicalCharacteristicResponseModel>> GetById(int id)
         {
-            throw new NotImplementedException();
+            try
+            {
+                var Eco = await _EcoRepository.GetById(id);
+                if (Eco == null)
+                {
+                    return new BaseResponse<EcologicalCharacteristicResponseModel>()
+                    {
+                        Code = 404,
+                        Success = false,
+                        Message = "Not found EcologicalCharacteristic!.",
+                        Data = null
+                    };
+                }
+                else
+                {
+                    return new BaseResponse<EcologicalCharacteristicResponseModel>()
+                    {
+                        Code = 200,
+                        Success = true,
+                        Message = null,
+                        Data = _mapper.Map<EcologicalCharacteristicResponseModel>(Eco)
+                    };
+                }
+            }
+            catch (Exception ex)
+            {
+                return new BaseResponse<EcologicalCharacteristicResponseModel>()
+                {
+                    Code = 500,
+                    Success = false,
+                    Message = "Server error!.",
+                    Data = null,
+                };
+            }
         }
 
         public async Task<DynamicResponse<EcologicalCharacteristicResponseModel>> GetList(GetAllEcologicalCharacteristicRequestModel model)
@@ -94,15 +210,59 @@ namespace BussinessLayer.Service.Implement
                 {
                     Code = 500,
                     Success = false,
-                    Message = null,
+                    Message = "Server error!.",
                     Data = null,
                 };
             }
         }
 
-        public Task<BaseResponse<EcologicalCharacteristicResponseModel>> Update(int id, UpdateEcologicalCharacteristicRequestModel model)
+        public async Task<BaseResponse<EcologicalCharacteristicResponseModel>> Update(int id, UpdateEcologicalCharacteristicRequestModel model)
         {
-            throw new NotImplementedException();
+            try
+            {
+                var eco = await _EcoRepository.GetById(id);
+                if (eco == null)
+                {
+                    return new BaseResponse<EcologicalCharacteristicResponseModel>()
+                    {
+                        Code = 404,
+                        Success = false,
+                        Message = "Not found EcologicalCharacteristic!.",
+                        Data = null
+                    };
+                }
+                var newEco = _mapper.Map(model, eco);
+                var query = await _EcoRepository.Update(newEco);
+                if (query)
+                {
+                    return new BaseResponse<EcologicalCharacteristicResponseModel>()
+                    {
+                        Code = 200,
+                        Success = true,
+                        Message = "Create EcologicalCharacteristic success!."
+                    };
+                }
+                else
+                {
+                    return new BaseResponse<EcologicalCharacteristicResponseModel>()
+                    {
+                        Code = 500,
+                        Success = false,
+                        Message = "Server error!.",
+                        Data = null,
+                    };
+                }
+            }
+            catch (Exception ex)
+            {
+                return new BaseResponse<EcologicalCharacteristicResponseModel>()
+                {
+                    Code = 500,
+                    Success = false,
+                    Message = "Server error!.",
+                    Data = null,
+                };
+            }
         }
     }
 }

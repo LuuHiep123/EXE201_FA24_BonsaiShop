@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using DataLayer.Entities;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata;
-using Microsoft.Extensions.Configuration;
 
 namespace DataLayer.DBContext
 {
@@ -32,17 +31,9 @@ namespace DataLayer.DBContext
         {
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseSqlServer(GetConnectionString());
+#warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see http://go.microsoft.com/fwlink/?LinkId=723263.
+                optionsBuilder.UseSqlServer("Data Source=SQL8001.site4now.net;Initial Catalog=db_aad141_exe201;User Id=db_aad141_exe201_admin;Password=Luuhiep113@;");
             }
-        }
-
-        string GetConnectionString()
-        {
-            IConfiguration builder = new ConfigurationBuilder()
-                .SetBasePath(Directory.GetCurrentDirectory())
-                .AddJsonFile("appsettings.json", true, true)
-                .Build();
-            return builder["ConnectionStrings:hosting"];
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
@@ -177,8 +168,6 @@ namespace DataLayer.DBContext
 
                 entity.Property(e => e.UrlImg).HasColumnName("Url_Img");
 
-                entity.Property(e => e.UserId).HasColumnName("User_Id");
-
                 entity.Property(e => e.UserManual).HasColumnName("User_Manual");
 
                 entity.Property(e => e.WarrantyPolicy).HasColumnName("Warranty_policy");
@@ -188,21 +177,13 @@ namespace DataLayer.DBContext
                     .HasForeignKey(d => d.CategoryId)
                     .OnDelete(DeleteBehavior.ClientSetNull)
                     .HasConstraintName("FK__Product__Categor__29572725");
-
-                entity.HasOne(d => d.User)
-                    .WithMany(p => p.Products)
-                    .HasForeignKey(d => d.UserId)
-                    .OnDelete(DeleteBehavior.ClientSetNull)
-                    .HasConstraintName("FK__Product__User_Id__286302EC");
             });
 
             modelBuilder.Entity<User>(entity =>
             {
                 entity.ToTable("User");
 
-                entity.Property(e => e.Address)
-                    .IsRequired()
-                    .HasMaxLength(100);
+                entity.Property(e => e.Address).HasMaxLength(200);
 
                 entity.Property(e => e.CreatedDate)
                     .HasColumnType("date")
@@ -216,12 +197,9 @@ namespace DataLayer.DBContext
                     .IsRequired()
                     .HasMaxLength(100);
 
-                entity.Property(e => e.Gender)
-                    .IsRequired()
-                    .HasMaxLength(50);
+                entity.Property(e => e.Gender).HasMaxLength(100);
 
-                entity.Property(e => e.ImgUrl)
-                    .HasColumnName("ImgURL");
+                entity.Property(e => e.ImgUrl).HasColumnName("ImgURL");
 
                 entity.Property(e => e.ModifiedDate)
                     .HasColumnType("date")
@@ -232,8 +210,7 @@ namespace DataLayer.DBContext
                     .HasMaxLength(100);
 
                 entity.Property(e => e.PhoneNumber)
-                    .IsRequired()
-                    .HasMaxLength(50)
+                    .HasMaxLength(100)
                     .HasColumnName("Phone_Number");
 
                 entity.Property(e => e.RatingCount).HasColumnName("Rating_Count");

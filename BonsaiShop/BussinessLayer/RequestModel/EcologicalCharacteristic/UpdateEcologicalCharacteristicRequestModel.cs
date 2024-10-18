@@ -8,8 +8,8 @@ namespace BussinessLayer.RequestModel.EcologicalCharacteristic
 {
     public class UpdateEcologicalCharacteristicRequestModel
     {
-        public string Name { get; set; }
-        public string Desciption { get; set; }
-        public bool Status { get; set; }
+        public string? Name { get; set; }
+        public string? Desciption { get; set; }
+        public bool? Status { get; set; }
     }
 }

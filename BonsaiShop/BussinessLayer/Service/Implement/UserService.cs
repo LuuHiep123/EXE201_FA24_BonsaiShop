@@ -243,7 +243,7 @@ namespace BussinessLayer.Service.Implement
                         Password = hashPassword,
                         CreatedDate = DateTime.UtcNow,
                         RoleName = "User",
-                        Status = true,
+                        Status = true,  
                     };
                     bool check = await _userRepository.CreateUser(userMail);
                     if (!check)

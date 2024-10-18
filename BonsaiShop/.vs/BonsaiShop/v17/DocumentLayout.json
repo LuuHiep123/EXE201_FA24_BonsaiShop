@@ -3,156 +3,168 @@
   "WorkspaceRootPath": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F1997983-6340-47A7-8F41-76B587C9BBD9}|BussinessLayer\\BussinessLayer.csproj|f:\\fa24\\exe201\\project\\exe201_fa24_bonsaishop\\bonsaishop\\bussinesslayer\\service\\implement\\ecologicalcharacteristicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1997983-6340-47A7-8F41-76B587C9BBD9}|BussinessLayer\\BussinessLayer.csproj|solutionrelative:bussinesslayer\\service\\implement\\ecologicalcharacteristicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1997983-6340-47A7-8F41-76B587C9BBD9}|BussinessLayer\\BussinessLayer.csproj|f:\\fa24\\exe201\\project\\exe201_fa24_bonsaishop\\bonsaishop\\bussinesslayer\\responsemodel\\baseresponse\\basereponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1997983-6340-47A7-8F41-76B587C9BBD9}|BussinessLayer\\BussinessLayer.csproj|solutionrelative:bussinesslayer\\responsemodel\\baseresponse\\basereponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1997983-6340-47A7-8F41-76B587C9BBD9}|BussinessLayer\\BussinessLayer.csproj|f:\\fa24\\exe201\\project\\exe201_fa24_bonsaishop\\bonsaishop\\bussinesslayer\\service\\iecologicalcharacteristicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1997983-6340-47A7-8F41-76B587C9BBD9}|BussinessLayer\\BussinessLayer.csproj|solutionrelative:bussinesslayer\\service\\iecologicalcharacteristicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF5182CD-38BE-46FB-A7A6-BC9181E839D0}|BonsaiShop\\BonsaiShop.csproj|f:\\fa24\\exe201\\project\\exe201_fa24_bonsaishop\\bonsaishop\\bonsaishop\\appstarts\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF5182CD-38BE-46FB-A7A6-BC9181E839D0}|BonsaiShop\\BonsaiShop.csproj|solutionrelative:bonsaishop\\appstarts\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FF5182CD-38BE-46FB-A7A6-BC9181E839D0}|BonsaiShop\\BonsaiShop.csproj|f:\\fa24\\exe201\\project\\exe201_fa24_bonsaishop\\bonsaishop\\bonsaishop\\controllers\\ecologicalcharacteristiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF5182CD-38BE-46FB-A7A6-BC9181E839D0}|BonsaiShop\\BonsaiShop.csproj|solutionrelative:bonsaishop\\controllers\\ecologicalcharacteristiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FF5182CD-38BE-46FB-A7A6-BC9181E839D0}|BonsaiShop\\BonsaiShop.csproj|f:\\fa24\\exe201\\project\\exe201_fa24_bonsaishop\\bonsaishop\\bonsaishop\\appstarts\\dependencyinjectioncontainers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FF5182CD-38BE-46FB-A7A6-BC9181E839D0}|BonsaiShop\\BonsaiShop.csproj|solutionrelative:bonsaishop\\appstarts\\dependencyinjectioncontainers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1997983-6340-47A7-8F41-76B587C9BBD9}|BussinessLayer\\BussinessLayer.csproj|f:\\fa24\\exe201\\project\\exe201_fa24_bonsaishop\\bonsaishop\\bussinesslayer\\requestmodel\\ecologicalcharacteristic\\getallecologicalcharacteristicrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1997983-6340-47A7-8F41-76B587C9BBD9}|BussinessLayer\\BussinessLayer.csproj|solutionrelative:bussinesslayer\\requestmodel\\ecologicalcharacteristic\\getallecologicalcharacteristicrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F1997983-6340-47A7-8F41-76B587C9BBD9}|BussinessLayer\\BussinessLayer.csproj|f:\\fa24\\exe201\\project\\exe201_fa24_bonsaishop\\bonsaishop\\bussinesslayer\\service\\implement\\ecologicalcharacteristicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1997983-6340-47A7-8F41-76B587C9BBD9}|BussinessLayer\\BussinessLayer.csproj|solutionrelative:bussinesslayer\\service\\implement\\ecologicalcharacteristicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1997983-6340-47A7-8F41-76B587C9BBD9}|BussinessLayer\\BussinessLayer.csproj|f:\\fa24\\exe201\\project\\exe201_fa24_bonsaishop\\bonsaishop\\bussinesslayer\\requestmodel\\ecologicalcharacteristic\\updateecologicalcharacteristicrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1997983-6340-47A7-8F41-76B587C9BBD9}|BussinessLayer\\BussinessLayer.csproj|solutionrelative:bussinesslayer\\requestmodel\\ecologicalcharacteristic\\updateecologicalcharacteristicrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F1997983-6340-47A7-8F41-76B587C9BBD9}|BussinessLayer\\BussinessLayer.csproj|f:\\fa24\\exe201\\project\\exe201_fa24_bonsaishop\\bonsaishop\\bussinesslayer\\service\\implement\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1997983-6340-47A7-8F41-76B587C9BBD9}|BussinessLayer\\BussinessLayer.csproj|solutionrelative:bussinesslayer\\service\\implement\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1997983-6340-47A7-8F41-76B587C9BBD9}|BussinessLayer\\BussinessLayer.csproj|f:\\fa24\\exe201\\project\\exe201_fa24_bonsaishop\\bonsaishop\\bussinesslayer\\requestmodel\\user\\getalluserrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1997983-6340-47A7-8F41-76B587C9BBD9}|BussinessLayer\\BussinessLayer.csproj|solutionrelative:bussinesslayer\\requestmodel\\user\\getalluserrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F1997983-6340-47A7-8F41-76B587C9BBD9}|BussinessLayer\\BussinessLayer.csproj|f:\\fa24\\exe201\\project\\exe201_fa24_bonsaishop\\bonsaishop\\bussinesslayer\\requestmodel\\category\\createcategoryrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1997983-6340-47A7-8F41-76B587C9BBD9}|BussinessLayer\\BussinessLayer.csproj|solutionrelative:bussinesslayer\\requestmodel\\category\\createcategoryrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1997983-6340-47A7-8F41-76B587C9BBD9}|BussinessLayer\\BussinessLayer.csproj|f:\\fa24\\exe201\\project\\exe201_fa24_bonsaishop\\bonsaishop\\bussinesslayer\\requestmodel\\ecologicalcharacteristic\\createecologicalcharacteristicrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1997983-6340-47A7-8F41-76B587C9BBD9}|BussinessLayer\\BussinessLayer.csproj|solutionrelative:bussinesslayer\\requestmodel\\ecologicalcharacteristic\\createecologicalcharacteristicrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F1997983-6340-47A7-8F41-76B587C9BBD9}|BussinessLayer\\BussinessLayer.csproj|f:\\fa24\\exe201\\project\\exe201_fa24_bonsaishop\\bonsaishop\\bussinesslayer\\responsemodel\\category\\categoryresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1997983-6340-47A7-8F41-76B587C9BBD9}|BussinessLayer\\BussinessLayer.csproj|solutionrelative:bussinesslayer\\responsemodel\\category\\categoryresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF5182CD-38BE-46FB-A7A6-BC9181E839D0}|BonsaiShop\\BonsaiShop.csproj|f:\\fa24\\exe201\\project\\exe201_fa24_bonsaishop\\bonsaishop\\bonsaishop\\controllers\\ecologicalcharacteristiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF5182CD-38BE-46FB-A7A6-BC9181E839D0}|BonsaiShop\\BonsaiShop.csproj|solutionrelative:bonsaishop\\controllers\\ecologicalcharacteristiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DBBAA8AA-11E9-4D37-9CC0-4D49140882DE}|DataLayer\\DataLayer.csproj|f:\\fa24\\exe201\\project\\exe201_fa24_bonsaishop\\bonsaishop\\datalayer\\repository\\implement\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBBAA8AA-11E9-4D37-9CC0-4D49140882DE}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\repository\\implement\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF5182CD-38BE-46FB-A7A6-BC9181E839D0}|BonsaiShop\\BonsaiShop.csproj|f:\\fa24\\exe201\\project\\exe201_fa24_bonsaishop\\bonsaishop\\bonsaishop\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF5182CD-38BE-46FB-A7A6-BC9181E839D0}|BonsaiShop\\BonsaiShop.csproj|solutionrelative:bonsaishop\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FF5182CD-38BE-46FB-A7A6-BC9181E839D0}|BonsaiShop\\BonsaiShop.csproj|f:\\fa24\\exe201\\project\\exe201_fa24_bonsaishop\\bonsaishop\\bonsaishop\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF5182CD-38BE-46FB-A7A6-BC9181E839D0}|BonsaiShop\\BonsaiShop.csproj|solutionrelative:bonsaishop\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1997983-6340-47A7-8F41-76B587C9BBD9}|BussinessLayer\\BussinessLayer.csproj|f:\\fa24\\exe201\\project\\exe201_fa24_bonsaishop\\bonsaishop\\bussinesslayer\\service\\implement\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1997983-6340-47A7-8F41-76B587C9BBD9}|BussinessLayer\\BussinessLayer.csproj|solutionrelative:bussinesslayer\\service\\implement\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1997983-6340-47A7-8F41-76B587C9BBD9}|BussinessLayer\\BussinessLayer.csproj|f:\\fa24\\exe201\\project\\exe201_fa24_bonsaishop\\bonsaishop\\bussinesslayer\\service\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1997983-6340-47A7-8F41-76B587C9BBD9}|BussinessLayer\\BussinessLayer.csproj|solutionrelative:bussinesslayer\\service\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1997983-6340-47A7-8F41-76B587C9BBD9}|BussinessLayer\\BussinessLayer.csproj|f:\\fa24\\exe201\\project\\exe201_fa24_bonsaishop\\bonsaishop\\bussinesslayer\\responsemodel\\ecologicalcharacteristic\\ecologicalcharacteristicresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1997983-6340-47A7-8F41-76B587C9BBD9}|BussinessLayer\\BussinessLayer.csproj|solutionrelative:bussinesslayer\\responsemodel\\ecologicalcharacteristic\\ecologicalcharacteristicresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DBBAA8AA-11E9-4D37-9CC0-4D49140882DE}|DataLayer\\DataLayer.csproj|f:\\fa24\\exe201\\project\\exe201_fa24_bonsaishop\\bonsaishop\\datalayer\\repository\\iecologicalcharacteristicrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DBBAA8AA-11E9-4D37-9CC0-4D49140882DE}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\repository\\iecologicalcharacteristicrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DBBAA8AA-11E9-4D37-9CC0-4D49140882DE}|DataLayer\\DataLayer.csproj|f:\\fa24\\exe201\\project\\exe201_fa24_bonsaishop\\bonsaishop\\datalayer\\repository\\implement\\ecologicalcharacteristicrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DBBAA8AA-11E9-4D37-9CC0-4D49140882DE}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\repository\\implement\\ecologicalcharacteristicrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DBBAA8AA-11E9-4D37-9CC0-4D49140882DE}|DataLayer\\DataLayer.csproj|f:\\fa24\\exe201\\project\\exe201_fa24_bonsaishop\\bonsaishop\\datalayer\\repository\\implement\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DBBAA8AA-11E9-4D37-9CC0-4D49140882DE}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\repository\\implement\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DBBAA8AA-11E9-4D37-9CC0-4D49140882DE}|DataLayer\\DataLayer.csproj|f:\\fa24\\exe201\\project\\exe201_fa24_bonsaishop\\bonsaishop\\datalayer\\repository\\iuserrepositoty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DBBAA8AA-11E9-4D37-9CC0-4D49140882DE}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\repository\\iuserrepositoty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DBBAA8AA-11E9-4D37-9CC0-4D49140882DE}|DataLayer\\DataLayer.csproj|f:\\fa24\\exe201\\project\\exe201_fa24_bonsaishop\\bonsaishop\\datalayer\\entities\\ecologicalcharacteristic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DBBAA8AA-11E9-4D37-9CC0-4D49140882DE}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\entities\\ecologicalcharacteristic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DBBAA8AA-11E9-4D37-9CC0-4D49140882DE}|DataLayer\\DataLayer.csproj|f:\\fa24\\exe201\\project\\exe201_fa24_bonsaishop\\bonsaishop\\datalayer\\entities\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DBBAA8AA-11E9-4D37-9CC0-4D49140882DE}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\entities\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DBBAA8AA-11E9-4D37-9CC0-4D49140882DE}|DataLayer\\DataLayer.csproj|f:\\fa24\\exe201\\project\\exe201_fa24_bonsaishop\\bonsaishop\\datalayer\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DBBAA8AA-11E9-4D37-9CC0-4D49140882DE}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DBBAA8AA-11E9-4D37-9CC0-4D49140882DE}|DataLayer\\DataLayer.csproj|f:\\fa24\\exe201\\project\\exe201_fa24_bonsaishop\\bonsaishop\\datalayer\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DBBAA8AA-11E9-4D37-9CC0-4D49140882DE}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DBBAA8AA-11E9-4D37-9CC0-4D49140882DE}|DataLayer\\DataLayer.csproj|f:\\fa24\\exe201\\project\\exe201_fa24_bonsaishop\\bonsaishop\\datalayer\\entities\\coupon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DBBAA8AA-11E9-4D37-9CC0-4D49140882DE}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\entities\\coupon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF5182CD-38BE-46FB-A7A6-BC9181E839D0}|BonsaiShop\\BonsaiShop.csproj|f:\\fa24\\exe201\\project\\exe201_fa24_bonsaishop\\bonsaishop\\bonsaishop\\appstarts\\swaggerconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF5182CD-38BE-46FB-A7A6-BC9181E839D0}|BonsaiShop\\BonsaiShop.csproj|solutionrelative:bonsaishop\\appstarts\\swaggerconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FF5182CD-38BE-46FB-A7A6-BC9181E839D0}|BonsaiShop\\BonsaiShop.csproj|f:\\fa24\\exe201\\project\\exe201_fa24_bonsaishop\\bonsaishop\\bonsaishop\\appstarts\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF5182CD-38BE-46FB-A7A6-BC9181E839D0}|BonsaiShop\\BonsaiShop.csproj|solutionrelative:bonsaishop\\appstarts\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FF5182CD-38BE-46FB-A7A6-BC9181E839D0}|BonsaiShop\\BonsaiShop.csproj|f:\\fa24\\exe201\\project\\exe201_fa24_bonsaishop\\bonsaishop\\bonsaishop\\appstarts\\automapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FF5182CD-38BE-46FB-A7A6-BC9181E839D0}|BonsaiShop\\BonsaiShop.csproj|solutionrelative:bonsaishop\\appstarts\\automapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1997983-6340-47A7-8F41-76B587C9BBD9}|BussinessLayer\\BussinessLayer.csproj|f:\\fa24\\exe201\\project\\exe201_fa24_bonsaishop\\bonsaishop\\bussinesslayer\\requestmodel\\user\\registerrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1997983-6340-47A7-8F41-76B587C9BBD9}|BussinessLayer\\BussinessLayer.csproj|solutionrelative:bussinesslayer\\requestmodel\\user\\registerrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F1997983-6340-47A7-8F41-76B587C9BBD9}|BussinessLayer\\BussinessLayer.csproj|f:\\fa24\\exe201\\project\\exe201_fa24_bonsaishop\\bonsaishop\\bussinesslayer\\service\\implement\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1997983-6340-47A7-8F41-76B587C9BBD9}|BussinessLayer\\BussinessLayer.csproj|solutionrelative:bussinesslayer\\service\\implement\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1997983-6340-47A7-8F41-76B587C9BBD9}|BussinessLayer\\BussinessLayer.csproj|f:\\fa24\\exe201\\project\\exe201_fa24_bonsaishop\\bonsaishop\\bussinesslayer\\requestmodel\\user\\updaterequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1997983-6340-47A7-8F41-76B587C9BBD9}|BussinessLayer\\BussinessLayer.csproj|solutionrelative:bussinesslayer\\requestmodel\\user\\updaterequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F1997983-6340-47A7-8F41-76B587C9BBD9}|BussinessLayer\\BussinessLayer.csproj|f:\\fa24\\exe201\\project\\exe201_fa24_bonsaishop\\bonsaishop\\bussinesslayer\\service\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1997983-6340-47A7-8F41-76B587C9BBD9}|BussinessLayer\\BussinessLayer.csproj|solutionrelative:bussinesslayer\\service\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1997983-6340-47A7-8F41-76B587C9BBD9}|BussinessLayer\\BussinessLayer.csproj|f:\\fa24\\exe201\\project\\exe201_fa24_bonsaishop\\bonsaishop\\bussinesslayer\\requestmodel\\user\\loginrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1997983-6340-47A7-8F41-76B587C9BBD9}|BussinessLayer\\BussinessLayer.csproj|solutionrelative:bussinesslayer\\requestmodel\\user\\loginrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F1997983-6340-47A7-8F41-76B587C9BBD9}|BussinessLayer\\BussinessLayer.csproj|f:\\fa24\\exe201\\project\\exe201_fa24_bonsaishop\\bonsaishop\\bussinesslayer\\service\\iecologicalcharacteristicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1997983-6340-47A7-8F41-76B587C9BBD9}|BussinessLayer\\BussinessLayer.csproj|solutionrelative:bussinesslayer\\service\\iecologicalcharacteristicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DBBAA8AA-11E9-4D37-9CC0-4D49140882DE}|DataLayer\\DataLayer.csproj|f:\\fa24\\exe201\\project\\exe201_fa24_bonsaishop\\bonsaishop\\datalayer\\dbcontext\\db_aad141_exe201context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DBBAA8AA-11E9-4D37-9CC0-4D49140882DE}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\dbcontext\\db_aad141_exe201context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DBBAA8AA-11E9-4D37-9CC0-4D49140882DE}|DataLayer\\DataLayer.csproj|f:\\fa24\\exe201\\project\\exe201_fa24_bonsaishop\\bonsaishop\\datalayer\\repository\\implement\\ecologicalcharacteristicrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBBAA8AA-11E9-4D37-9CC0-4D49140882DE}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\repository\\implement\\ecologicalcharacteristicrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DBBAA8AA-11E9-4D37-9CC0-4D49140882DE}|DataLayer\\DataLayer.csproj|f:\\fa24\\exe201\\project\\exe201_fa24_bonsaishop\\bonsaishop\\datalayer\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DBBAA8AA-11E9-4D37-9CC0-4D49140882DE}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FF5182CD-38BE-46FB-A7A6-BC9181E839D0}|BonsaiShop\\BonsaiShop.csproj|f:\\fa24\\exe201\\project\\exe201_fa24_bonsaishop\\bonsaishop\\bonsaishop\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF5182CD-38BE-46FB-A7A6-BC9181E839D0}|BonsaiShop\\BonsaiShop.csproj|solutionrelative:bonsaishop\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF5182CD-38BE-46FB-A7A6-BC9181E839D0}|BonsaiShop\\BonsaiShop.csproj|f:\\fa24\\exe201\\project\\exe201_fa24_bonsaishop\\bonsaishop\\bonsaishop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF5182CD-38BE-46FB-A7A6-BC9181E839D0}|BonsaiShop\\BonsaiShop.csproj|solutionrelative:bonsaishop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FF5182CD-38BE-46FB-A7A6-BC9181E839D0}|BonsaiShop\\BonsaiShop.csproj|f:\\fa24\\exe201\\project\\exe201_fa24_bonsaishop\\bonsaishop\\bonsaishop\\appstarts\\swaggerconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF5182CD-38BE-46FB-A7A6-BC9181E839D0}|BonsaiShop\\BonsaiShop.csproj|solutionrelative:bonsaishop\\appstarts\\swaggerconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF5182CD-38BE-46FB-A7A6-BC9181E839D0}|BonsaiShop\\BonsaiShop.csproj|f:\\fa24\\exe201\\project\\exe201_fa24_bonsaishop\\bonsaishop\\bonsaishop\\appstarts\\authconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF5182CD-38BE-46FB-A7A6-BC9181E839D0}|BonsaiShop\\BonsaiShop.csproj|solutionrelative:bonsaishop\\appstarts\\authconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F1997983-6340-47A7-8F41-76B587C9BBD9}|BussinessLayer\\BussinessLayer.csproj|f:\\fa24\\exe201\\project\\exe201_fa24_bonsaishop\\bonsaishop\\bussinesslayer\\responsemodel\\ecologicalcharacteristic\\ecologicalcharacteristicresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1997983-6340-47A7-8F41-76B587C9BBD9}|BussinessLayer\\BussinessLayer.csproj|solutionrelative:bussinesslayer\\responsemodel\\ecologicalcharacteristic\\ecologicalcharacteristicresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF5182CD-38BE-46FB-A7A6-BC9181E839D0}|BonsaiShop\\BonsaiShop.csproj|f:\\fa24\\exe201\\project\\exe201_fa24_bonsaishop\\bonsaishop\\bonsaishop\\bonsaishop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{FF5182CD-38BE-46FB-A7A6-BC9181E839D0}|BonsaiShop\\BonsaiShop.csproj|solutionrelative:bonsaishop\\bonsaishop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{F1997983-6340-47A7-8F41-76B587C9BBD9}|BussinessLayer\\BussinessLayer.csproj|f:\\fa24\\exe201\\project\\exe201_fa24_bonsaishop\\bonsaishop\\bussinesslayer\\requestmodel\\category\\getallcategoryrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1997983-6340-47A7-8F41-76B587C9BBD9}|BussinessLayer\\BussinessLayer.csproj|solutionrelative:bussinesslayer\\requestmodel\\category\\getallcategoryrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBBAA8AA-11E9-4D37-9CC0-4D49140882DE}|DataLayer\\DataLayer.csproj|f:\\fa24\\exe201\\project\\exe201_fa24_bonsaishop\\bonsaishop\\datalayer\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBBAA8AA-11E9-4D37-9CC0-4D49140882DE}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1997983-6340-47A7-8F41-76B587C9BBD9}|BussinessLayer\\BussinessLayer.csproj|f:\\fa24\\exe201\\project\\exe201_fa24_bonsaishop\\bonsaishop\\bussinesslayer\\responsemodel\\product\\productresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1997983-6340-47A7-8F41-76B587C9BBD9}|BussinessLayer\\BussinessLayer.csproj|solutionrelative:bussinesslayer\\responsemodel\\product\\productresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1997983-6340-47A7-8F41-76B587C9BBD9}|BussinessLayer\\BussinessLayer.csproj|f:\\fa24\\exe201\\project\\exe201_fa24_bonsaishop\\bonsaishop\\bussinesslayer\\requestmodel\\category\\updatecategoryrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1997983-6340-47A7-8F41-76B587C9BBD9}|BussinessLayer\\BussinessLayer.csproj|solutionrelative:bussinesslayer\\requestmodel\\category\\updatecategoryrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1997983-6340-47A7-8F41-76B587C9BBD9}|BussinessLayer\\BussinessLayer.csproj|f:\\fa24\\exe201\\project\\exe201_fa24_bonsaishop\\bonsaishop\\bussinesslayer\\responsemodel\\user\\loginresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1997983-6340-47A7-8F41-76B587C9BBD9}|BussinessLayer\\BussinessLayer.csproj|solutionrelative:bussinesslayer\\responsemodel\\user\\loginresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F1997983-6340-47A7-8F41-76B587C9BBD9}|BussinessLayer\\BussinessLayer.csproj|f:\\fa24\\exe201\\project\\exe201_fa24_bonsaishop\\bonsaishop\\bussinesslayer\\responsemodel\\user\\userresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F1997983-6340-47A7-8F41-76B587C9BBD9}|BussinessLayer\\BussinessLayer.csproj|solutionrelative:bussinesslayer\\responsemodel\\user\\userresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DBBAA8AA-11E9-4D37-9CC0-4D49140882DE}|DataLayer\\DataLayer.csproj|f:\\fa24\\exe201\\project\\exe201_fa24_bonsaishop\\bonsaishop\\datalayer\\entities\\orderactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DBBAA8AA-11E9-4D37-9CC0-4D49140882DE}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\entities\\orderactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F1997983-6340-47A7-8F41-76B587C9BBD9}|BussinessLayer\\BussinessLayer.csproj|f:\\fa24\\exe201\\project\\exe201_fa24_bonsaishop\\bonsaishop\\bussinesslayer\\requestmodel\\ecologicalcharacteristic\\getallecologicalcharacteristicrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1997983-6340-47A7-8F41-76B587C9BBD9}|BussinessLayer\\BussinessLayer.csproj|solutionrelative:bussinesslayer\\requestmodel\\ecologicalcharacteristic\\getallecologicalcharacteristicrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DBBAA8AA-11E9-4D37-9CC0-4D49140882DE}|DataLayer\\DataLayer.csproj|f:\\fa24\\exe201\\project\\exe201_fa24_bonsaishop\\bonsaishop\\datalayer\\entities\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DBBAA8AA-11E9-4D37-9CC0-4D49140882DE}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\entities\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DBBAA8AA-11E9-4D37-9CC0-4D49140882DE}|DataLayer\\DataLayer.csproj|f:\\fa24\\exe201\\project\\exe201_fa24_bonsaishop\\bonsaishop\\datalayer\\repository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBBAA8AA-11E9-4D37-9CC0-4D49140882DE}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\repository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DBBAA8AA-11E9-4D37-9CC0-4D49140882DE}|DataLayer\\DataLayer.csproj|f:\\fa24\\exe201\\project\\exe201_fa24_bonsaishop\\bonsaishop\\datalayer\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DBBAA8AA-11E9-4D37-9CC0-4D49140882DE}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DBBAA8AA-11E9-4D37-9CC0-4D49140882DE}|DataLayer\\DataLayer.csproj|f:\\fa24\\exe201\\project\\exe201_fa24_bonsaishop\\bonsaishop\\datalayer\\repository\\iecologicalcharacteristicrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBBAA8AA-11E9-4D37-9CC0-4D49140882DE}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\repository\\iecologicalcharacteristicrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1997983-6340-47A7-8F41-76B587C9BBD9}|BussinessLayer\\BussinessLayer.csproj|f:\\fa24\\exe201\\project\\exe201_fa24_bonsaishop\\bonsaishop\\bussinesslayer\\responsemodel\\user\\loginresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1997983-6340-47A7-8F41-76B587C9BBD9}|BussinessLayer\\BussinessLayer.csproj|solutionrelative:bussinesslayer\\responsemodel\\user\\loginresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DBBAA8AA-11E9-4D37-9CC0-4D49140882DE}|DataLayer\\DataLayer.csproj|f:\\fa24\\exe201\\project\\exe201_fa24_bonsaishop\\bonsaishop\\datalayer\\repository\\implement\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBBAA8AA-11E9-4D37-9CC0-4D49140882DE}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\repository\\implement\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1997983-6340-47A7-8F41-76B587C9BBD9}|BussinessLayer\\BussinessLayer.csproj|f:\\fa24\\exe201\\project\\exe201_fa24_bonsaishop\\bonsaishop\\bussinesslayer\\requestmodel\\ecologicalcharacteristic\\updateecologicalcharacteristicrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1997983-6340-47A7-8F41-76B587C9BBD9}|BussinessLayer\\BussinessLayer.csproj|solutionrelative:bussinesslayer\\requestmodel\\ecologicalcharacteristic\\updateecologicalcharacteristicrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1997983-6340-47A7-8F41-76B587C9BBD9}|BussinessLayer\\BussinessLayer.csproj|f:\\fa24\\exe201\\project\\exe201_fa24_bonsaishop\\bonsaishop\\bussinesslayer\\requestmodel\\ecologicalcharacteristic\\createecologicalcharacteristicrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1997983-6340-47A7-8F41-76B587C9BBD9}|BussinessLayer\\BussinessLayer.csproj|solutionrelative:bussinesslayer\\requestmodel\\ecologicalcharacteristic\\createecologicalcharacteristicrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBBAA8AA-11E9-4D37-9CC0-4D49140882DE}|DataLayer\\DataLayer.csproj|f:\\fa24\\exe201\\project\\exe201_fa24_bonsaishop\\bonsaishop\\datalayer\\entities\\ecologicalcharacteristic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBBAA8AA-11E9-4D37-9CC0-4D49140882DE}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\entities\\ecologicalcharacteristic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBBAA8AA-11E9-4D37-9CC0-4D49140882DE}|DataLayer\\DataLayer.csproj|f:\\fa24\\exe201\\project\\exe201_fa24_bonsaishop\\bonsaishop\\datalayer\\dbcontext\\db_aad141_exe201context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBBAA8AA-11E9-4D37-9CC0-4D49140882DE}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\dbcontext\\db_aad141_exe201context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBBAA8AA-11E9-4D37-9CC0-4D49140882DE}|DataLayer\\DataLayer.csproj|f:\\fa24\\exe201\\project\\exe201_fa24_bonsaishop\\bonsaishop\\datalayer\\repository\\iuserrepositoty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBBAA8AA-11E9-4D37-9CC0-4D49140882DE}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\repository\\iuserrepositoty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1997983-6340-47A7-8F41-76B587C9BBD9}|BussinessLayer\\BussinessLayer.csproj|f:\\fa24\\exe201\\project\\exe201_fa24_bonsaishop\\bonsaishop\\bussinesslayer\\requestmodel\\user\\getalluserrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1997983-6340-47A7-8F41-76B587C9BBD9}|BussinessLayer\\BussinessLayer.csproj|solutionrelative:bussinesslayer\\requestmodel\\user\\getalluserrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1997983-6340-47A7-8F41-76B587C9BBD9}|BussinessLayer\\BussinessLayer.csproj|f:\\fa24\\exe201\\project\\exe201_fa24_bonsaishop\\bonsaishop\\bussinesslayer\\requestmodel\\user\\registerrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1997983-6340-47A7-8F41-76B587C9BBD9}|BussinessLayer\\BussinessLayer.csproj|solutionrelative:bussinesslayer\\requestmodel\\user\\registerrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1997983-6340-47A7-8F41-76B587C9BBD9}|BussinessLayer\\BussinessLayer.csproj|f:\\fa24\\exe201\\project\\exe201_fa24_bonsaishop\\bonsaishop\\bussinesslayer\\requestmodel\\user\\loginrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1997983-6340-47A7-8F41-76B587C9BBD9}|BussinessLayer\\BussinessLayer.csproj|solutionrelative:bussinesslayer\\requestmodel\\user\\loginrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1997983-6340-47A7-8F41-76B587C9BBD9}|BussinessLayer\\BussinessLayer.csproj|f:\\fa24\\exe201\\project\\exe201_fa24_bonsaishop\\bonsaishop\\bussinesslayer\\service\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1997983-6340-47A7-8F41-76B587C9BBD9}|BussinessLayer\\BussinessLayer.csproj|solutionrelative:bussinesslayer\\service\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF5182CD-38BE-46FB-A7A6-BC9181E839D0}|BonsaiShop\\BonsaiShop.csproj|f:\\fa24\\exe201\\project\\exe201_fa24_bonsaishop\\bonsaishop\\bonsaishop\\appstarts\\authconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF5182CD-38BE-46FB-A7A6-BC9181E839D0}|BonsaiShop\\BonsaiShop.csproj|solutionrelative:bonsaishop\\appstarts\\authconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1997983-6340-47A7-8F41-76B587C9BBD9}|BussinessLayer\\BussinessLayer.csproj|f:\\fa24\\exe201\\project\\exe201_fa24_bonsaishop\\bonsaishop\\bussinesslayer\\responsemodel\\baseresponse\\basereponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1997983-6340-47A7-8F41-76B587C9BBD9}|BussinessLayer\\BussinessLayer.csproj|solutionrelative:bussinesslayer\\responsemodel\\baseresponse\\basereponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1997983-6340-47A7-8F41-76B587C9BBD9}|BussinessLayer\\BussinessLayer.csproj|f:\\fa24\\exe201\\project\\exe201_fa24_bonsaishop\\bonsaishop\\bussinesslayer\\requestmodel\\user\\updaterequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1997983-6340-47A7-8F41-76B587C9BBD9}|BussinessLayer\\BussinessLayer.csproj|solutionrelative:bussinesslayer\\requestmodel\\user\\updaterequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF5182CD-38BE-46FB-A7A6-BC9181E839D0}|BonsaiShop\\BonsaiShop.csproj|f:\\fa24\\exe201\\project\\exe201_fa24_bonsaishop\\bonsaishop\\bonsaishop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF5182CD-38BE-46FB-A7A6-BC9181E839D0}|BonsaiShop\\BonsaiShop.csproj|solutionrelative:bonsaishop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF5182CD-38BE-46FB-A7A6-BC9181E839D0}|BonsaiShop\\BonsaiShop.csproj|f:\\fa24\\exe201\\project\\exe201_fa24_bonsaishop\\bonsaishop\\bonsaishop\\bonsaishop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FF5182CD-38BE-46FB-A7A6-BC9181E839D0}|BonsaiShop\\BonsaiShop.csproj|solutionrelative:bonsaishop\\bonsaishop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FF5182CD-38BE-46FB-A7A6-BC9181E839D0}|BonsaiShop\\BonsaiShop.csproj|f:\\fa24\\exe201\\project\\exe201_fa24_bonsaishop\\bonsaishop\\bonsaishop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -166,7 +178,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 21,
+          "SelectedChildIndex": 22,
           "Children": [
             {
               "$type": "Bookmark",
@@ -238,65 +250,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DependencyInjectionContainers.cs",
-              "DocumentMoniker": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\BonsaiShop\\AppStarts\\DependencyInjectionContainers.cs",
-              "RelativeDocumentMoniker": "BonsaiShop\\AppStarts\\DependencyInjectionContainers.cs",
-              "ToolTip": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\BonsaiShop\\AppStarts\\DependencyInjectionContainers.cs",
-              "RelativeToolTip": "BonsaiShop\\AppStarts\\DependencyInjectionContainers.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAowB4AAABmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T17:31:14.722Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "GetAllEcologicalCharacteristicRequestModel.cs",
-              "DocumentMoniker": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\BussinessLayer\\RequestModel\\EcologicalCharacteristic\\GetAllEcologicalCharacteristicRequestModel.cs",
-              "RelativeDocumentMoniker": "BussinessLayer\\RequestModel\\EcologicalCharacteristic\\GetAllEcologicalCharacteristicRequestModel.cs",
-              "ToolTip": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\BussinessLayer\\RequestModel\\EcologicalCharacteristic\\GetAllEcologicalCharacteristicRequestModel.cs",
-              "RelativeToolTip": "BussinessLayer\\RequestModel\\EcologicalCharacteristic\\GetAllEcologicalCharacteristicRequestModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Title": "CategoryResponseModel.cs",
+              "DocumentMoniker": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\BussinessLayer\\ResponseModel\\Category\\CategoryResponseModel.cs",
+              "RelativeDocumentMoniker": "BussinessLayer\\ResponseModel\\Category\\CategoryResponseModel.cs",
+              "ToolTip": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\BussinessLayer\\ResponseModel\\Category\\CategoryResponseModel.cs",
+              "RelativeToolTip": "BussinessLayer\\ResponseModel\\Category\\CategoryResponseModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T17:55:26.893Z",
+              "WhenOpened": "2024-10-18T18:29:31.885Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "MappingProfile.cs",
-              "DocumentMoniker": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\BonsaiShop\\AppStarts\\MappingProfile.cs",
-              "RelativeDocumentMoniker": "BonsaiShop\\AppStarts\\MappingProfile.cs",
-              "ToolTip": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\BonsaiShop\\AppStarts\\MappingProfile.cs",
-              "RelativeToolTip": "BonsaiShop\\AppStarts\\MappingProfile.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABmAAAA",
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\BussinessLayer\\Service\\Implement\\CategoryService.cs",
+              "RelativeDocumentMoniker": "BussinessLayer\\Service\\Implement\\CategoryService.cs",
+              "ToolTip": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\BussinessLayer\\Service\\Implement\\CategoryService.cs",
+              "RelativeToolTip": "BussinessLayer\\Service\\Implement\\CategoryService.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAowF4AAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T17:31:55.965Z",
+              "WhenOpened": "2024-10-18T19:58:28.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateCategoryRequestModel.cs",
+              "DocumentMoniker": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\BussinessLayer\\RequestModel\\Category\\CreateCategoryRequestModel.cs",
+              "RelativeDocumentMoniker": "BussinessLayer\\RequestModel\\Category\\CreateCategoryRequestModel.cs",
+              "ToolTip": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\BussinessLayer\\RequestModel\\Category\\CreateCategoryRequestModel.cs",
+              "RelativeToolTip": "BussinessLayer\\RequestModel\\Category\\CreateCategoryRequestModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T20:09:12.737Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "IEcologicalCharacteristicService.cs",
-              "DocumentMoniker": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\BussinessLayer\\Service\\IEcologicalCharacteristicService.cs",
-              "RelativeDocumentMoniker": "BussinessLayer\\Service\\IEcologicalCharacteristicService.cs",
-              "ToolTip": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\BussinessLayer\\Service\\IEcologicalCharacteristicService.cs",
-              "RelativeToolTip": "BussinessLayer\\Service\\IEcologicalCharacteristicService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAB3AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T17:44:16.894Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "EcologicalCharacteristicService.cs",
               "DocumentMoniker": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\BussinessLayer\\Service\\Implement\\EcologicalCharacteristicService.cs",
               "RelativeDocumentMoniker": "BussinessLayer\\Service\\Implement\\EcologicalCharacteristicService.cs",
               "ToolTip": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\BussinessLayer\\Service\\Implement\\EcologicalCharacteristicService.cs",
               "RelativeToolTip": "BussinessLayer\\Service\\Implement\\EcologicalCharacteristicService.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAAAB8AAAAwAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACYAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-13T17:44:27.133Z",
               "EditorCaption": ""
@@ -304,105 +303,66 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "BaseReponse.cs",
-              "DocumentMoniker": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\BussinessLayer\\ResponseModel\\BaseResponse\\BaseReponse.cs",
-              "RelativeDocumentMoniker": "BussinessLayer\\ResponseModel\\BaseResponse\\BaseReponse.cs",
-              "ToolTip": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\BussinessLayer\\ResponseModel\\BaseResponse\\BaseReponse.cs",
-              "RelativeToolTip": "BussinessLayer\\ResponseModel\\BaseResponse\\BaseReponse.cs",
-              "ViewState": "AQIAAB8AAAAAAAAAAAAQwDQAAAA0AAAA",
+              "Title": "DependencyInjectionContainers.cs",
+              "DocumentMoniker": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\BonsaiShop\\AppStarts\\DependencyInjectionContainers.cs",
+              "RelativeDocumentMoniker": "BonsaiShop\\AppStarts\\DependencyInjectionContainers.cs",
+              "ToolTip": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\BonsaiShop\\AppStarts\\DependencyInjectionContainers.cs",
+              "RelativeToolTip": "BonsaiShop\\AppStarts\\DependencyInjectionContainers.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAowCEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T17:10:10.882Z",
+              "WhenOpened": "2024-10-11T17:31:14.722Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UpdateEcologicalCharacteristicRequestModel.cs",
-              "DocumentMoniker": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\BussinessLayer\\RequestModel\\EcologicalCharacteristic\\UpdateEcologicalCharacteristicRequestModel.cs",
-              "RelativeDocumentMoniker": "BussinessLayer\\RequestModel\\EcologicalCharacteristic\\UpdateEcologicalCharacteristicRequestModel.cs",
-              "ToolTip": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\BussinessLayer\\RequestModel\\EcologicalCharacteristic\\UpdateEcologicalCharacteristicRequestModel.cs",
-              "RelativeToolTip": "BussinessLayer\\RequestModel\\EcologicalCharacteristic\\UpdateEcologicalCharacteristicRequestModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T17:50:42.225Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "GetAllUserRequestModel.cs",
-              "DocumentMoniker": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\BussinessLayer\\RequestModel\\User\\GetAllUserRequestModel.cs",
-              "RelativeDocumentMoniker": "BussinessLayer\\RequestModel\\User\\GetAllUserRequestModel.cs",
-              "ToolTip": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\BussinessLayer\\RequestModel\\User\\GetAllUserRequestModel.cs",
-              "RelativeToolTip": "BussinessLayer\\RequestModel\\User\\GetAllUserRequestModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T17:12:20.466Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CreateEcologicalCharacteristicRequestModel.cs",
-              "DocumentMoniker": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\BussinessLayer\\RequestModel\\EcologicalCharacteristic\\CreateEcologicalCharacteristicRequestModel.cs",
-              "RelativeDocumentMoniker": "BussinessLayer\\RequestModel\\EcologicalCharacteristic\\CreateEcologicalCharacteristicRequestModel.cs",
-              "ToolTip": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\BussinessLayer\\RequestModel\\EcologicalCharacteristic\\CreateEcologicalCharacteristicRequestModel.cs",
-              "RelativeToolTip": "BussinessLayer\\RequestModel\\EcologicalCharacteristic\\CreateEcologicalCharacteristicRequestModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T17:34:49.512Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 0,
               "Title": "EcologicalCharacteristicController.cs",
               "DocumentMoniker": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\BonsaiShop\\Controllers\\EcologicalCharacteristicController.cs",
               "RelativeDocumentMoniker": "BonsaiShop\\Controllers\\EcologicalCharacteristicController.cs",
               "ToolTip": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\BonsaiShop\\Controllers\\EcologicalCharacteristicController.cs",
               "RelativeToolTip": "BonsaiShop\\Controllers\\EcologicalCharacteristicController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "ViewState": "AQIAADUAAAAAAAAAAAAIwFcAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-13T18:01:10.73Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\BonsaiShop\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "BonsaiShop\\Controllers\\UserController.cs",
-              "ToolTip": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\BonsaiShop\\Controllers\\UserController.cs",
-              "RelativeToolTip": "BonsaiShop\\Controllers\\UserController.cs",
-              "ViewState": "AQIAAEkAAAAAAAAAAAAcwH0AAAAJAAAA",
+              "DocumentIndex": 6,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\DataLayer\\Repository\\Implement\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "DataLayer\\Repository\\Implement\\CategoryRepository.cs",
+              "ToolTip": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\DataLayer\\Repository\\Implement\\CategoryRepository.cs",
+              "RelativeToolTip": "DataLayer\\Repository\\Implement\\CategoryRepository.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwEMAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T16:55:01.983Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "IUserService.cs",
-              "DocumentMoniker": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\BussinessLayer\\Service\\IUserService.cs",
-              "RelativeDocumentMoniker": "BussinessLayer\\Service\\IUserService.cs",
-              "ToolTip": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\BussinessLayer\\Service\\IUserService.cs",
-              "RelativeToolTip": "BussinessLayer\\Service\\IUserService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABCAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T16:17:54.7Z",
+              "WhenOpened": "2024-10-18T19:57:19.462Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\BussinessLayer\\Service\\Implement\\UserService.cs",
-              "RelativeDocumentMoniker": "BussinessLayer\\Service\\Implement\\UserService.cs",
-              "ToolTip": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\BussinessLayer\\Service\\Implement\\UserService.cs",
-              "RelativeToolTip": "BussinessLayer\\Service\\Implement\\UserService.cs",
-              "ViewState": "AQIAAAsBAAAAAAAAAAAmwCkBAAARAAAA",
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\BussinessLayer\\Service\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "BussinessLayer\\Service\\ICategoryService.cs",
+              "ToolTip": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\BussinessLayer\\Service\\ICategoryService.cs",
+              "RelativeToolTip": "BussinessLayer\\Service\\ICategoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T16:17:35.808Z",
+              "WhenOpened": "2024-10-18T19:58:06.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\BonsaiShop\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "BonsaiShop\\Controllers\\CategoryController.cs",
+              "ToolTip": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\BonsaiShop\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "BonsaiShop\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEEAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T20:23:34.729Z",
               "EditorCaption": ""
             },
             {
@@ -411,59 +371,228 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\BonsaiShop\\AppStarts\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "BonsaiShop\\AppStarts\\MappingProfile.cs",
+              "ToolTip": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\BonsaiShop\\AppStarts\\MappingProfile.cs",
+              "RelativeToolTip": "BonsaiShop\\AppStarts\\MappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAABrAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T17:31:55.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AutoMapperConfig.cs",
+              "DocumentMoniker": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\BonsaiShop\\AppStarts\\AutoMapperConfig.cs",
+              "RelativeDocumentMoniker": "BonsaiShop\\AppStarts\\AutoMapperConfig.cs",
+              "ToolTip": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\BonsaiShop\\AppStarts\\AutoMapperConfig.cs",
+              "RelativeToolTip": "BonsaiShop\\AppStarts\\AutoMapperConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T17:31:13.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\BussinessLayer\\Service\\Implement\\UserService.cs",
+              "RelativeDocumentMoniker": "BussinessLayer\\Service\\Implement\\UserService.cs",
+              "ToolTip": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\BussinessLayer\\Service\\Implement\\UserService.cs",
+              "RelativeToolTip": "BussinessLayer\\Service\\Implement\\UserService.cs",
+              "ViewState": "AQIAAIQCAAAAAAAAAAAAAN8AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T16:17:35.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IEcologicalCharacteristicService.cs",
+              "DocumentMoniker": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\BussinessLayer\\Service\\IEcologicalCharacteristicService.cs",
+              "RelativeDocumentMoniker": "BussinessLayer\\Service\\IEcologicalCharacteristicService.cs",
+              "ToolTip": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\BussinessLayer\\Service\\IEcologicalCharacteristicService.cs",
+              "RelativeToolTip": "BussinessLayer\\Service\\IEcologicalCharacteristicService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T17:44:16.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "EcologicalCharacteristicResponseModel.cs",
-              "DocumentMoniker": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\BussinessLayer\\ResponseModel\\EcologicalCharacteristic\\EcologicalCharacteristicResponseModel.cs",
-              "RelativeDocumentMoniker": "BussinessLayer\\ResponseModel\\EcologicalCharacteristic\\EcologicalCharacteristicResponseModel.cs",
-              "ToolTip": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\BussinessLayer\\ResponseModel\\EcologicalCharacteristic\\EcologicalCharacteristicResponseModel.cs",
-              "RelativeToolTip": "BussinessLayer\\ResponseModel\\EcologicalCharacteristic\\EcologicalCharacteristicResponseModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T17:35:54.252Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "IEcologicalCharacteristicRepository.cs",
-              "DocumentMoniker": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\DataLayer\\Repository\\IEcologicalCharacteristicRepository.cs",
-              "RelativeDocumentMoniker": "DataLayer\\Repository\\IEcologicalCharacteristicRepository.cs",
-              "ToolTip": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\DataLayer\\Repository\\IEcologicalCharacteristicRepository.cs",
-              "RelativeToolTip": "DataLayer\\Repository\\IEcologicalCharacteristicRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T17:38:21.089Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
               "Title": "EcologicalCharacteristicRepository.cs",
               "DocumentMoniker": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\DataLayer\\Repository\\Implement\\EcologicalCharacteristicRepository.cs",
               "RelativeDocumentMoniker": "DataLayer\\Repository\\Implement\\EcologicalCharacteristicRepository.cs",
               "ToolTip": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\DataLayer\\Repository\\Implement\\EcologicalCharacteristicRepository.cs",
               "RelativeToolTip": "DataLayer\\Repository\\Implement\\EcologicalCharacteristicRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAPAAAA",
+              "ViewState": "AQIAADgAAAAAAAAAAAAIwFwAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-13T17:38:43.333Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "IUserRepositoty.cs",
-              "DocumentMoniker": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\DataLayer\\Repository\\IUserRepositoty.cs",
-              "RelativeDocumentMoniker": "DataLayer\\Repository\\IUserRepositoty.cs",
-              "ToolTip": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\DataLayer\\Repository\\IUserRepositoty.cs",
-              "RelativeToolTip": "DataLayer\\Repository\\IUserRepositoty.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "DocumentIndex": 14,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\BonsaiShop\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "BonsaiShop\\Controllers\\UserController.cs",
+              "ToolTip": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\BonsaiShop\\Controllers\\UserController.cs",
+              "RelativeToolTip": "BonsaiShop\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T17:35:46.137Z",
+              "WhenOpened": "2024-10-11T16:55:01.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SwaggerConfig.cs",
+              "DocumentMoniker": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\BonsaiShop\\AppStarts\\SwaggerConfig.cs",
+              "RelativeDocumentMoniker": "BonsaiShop\\AppStarts\\SwaggerConfig.cs",
+              "ToolTip": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\BonsaiShop\\AppStarts\\SwaggerConfig.cs",
+              "RelativeToolTip": "BonsaiShop\\AppStarts\\SwaggerConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T05:01:16.076Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
+              "Title": "EcologicalCharacteristicResponseModel.cs",
+              "DocumentMoniker": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\BussinessLayer\\ResponseModel\\EcologicalCharacteristic\\EcologicalCharacteristicResponseModel.cs",
+              "RelativeDocumentMoniker": "BussinessLayer\\ResponseModel\\EcologicalCharacteristic\\EcologicalCharacteristicResponseModel.cs",
+              "ToolTip": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\BussinessLayer\\ResponseModel\\EcologicalCharacteristic\\EcologicalCharacteristicResponseModel.cs",
+              "RelativeToolTip": "BussinessLayer\\ResponseModel\\EcologicalCharacteristic\\EcologicalCharacteristicResponseModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T17:35:54.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Category.cs",
+              "DocumentMoniker": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\DataLayer\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "DataLayer\\Entities\\Category.cs",
+              "ToolTip": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\DataLayer\\Entities\\Category.cs",
+              "RelativeToolTip": "DataLayer\\Entities\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T19:16:21.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GetAllCategoryRequestModel.cs",
+              "DocumentMoniker": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\BussinessLayer\\RequestModel\\Category\\GetAllCategoryRequestModel.cs",
+              "RelativeDocumentMoniker": "BussinessLayer\\RequestModel\\Category\\GetAllCategoryRequestModel.cs",
+              "ToolTip": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\BussinessLayer\\RequestModel\\Category\\GetAllCategoryRequestModel.cs",
+              "RelativeToolTip": "BussinessLayer\\RequestModel\\Category\\GetAllCategoryRequestModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T20:20:55.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProductResponseModel.cs",
+              "DocumentMoniker": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\BussinessLayer\\ResponseModel\\Product\\ProductResponseModel.cs",
+              "RelativeDocumentMoniker": "BussinessLayer\\ResponseModel\\Product\\ProductResponseModel.cs",
+              "ToolTip": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\BussinessLayer\\ResponseModel\\Product\\ProductResponseModel.cs",
+              "RelativeToolTip": "BussinessLayer\\ResponseModel\\Product\\ProductResponseModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T18:33:14.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UpdateCategoryRequestModel.cs",
+              "DocumentMoniker": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\BussinessLayer\\RequestModel\\Category\\UpdateCategoryRequestModel.cs",
+              "RelativeDocumentMoniker": "BussinessLayer\\RequestModel\\Category\\UpdateCategoryRequestModel.cs",
+              "ToolTip": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\BussinessLayer\\RequestModel\\Category\\UpdateCategoryRequestModel.cs",
+              "RelativeToolTip": "BussinessLayer\\RequestModel\\Category\\UpdateCategoryRequestModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T20:09:32.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "LoginResponseModel.cs",
+              "DocumentMoniker": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\BussinessLayer\\ResponseModel\\User\\LoginResponseModel.cs",
+              "RelativeDocumentMoniker": "BussinessLayer\\ResponseModel\\User\\LoginResponseModel.cs",
+              "ToolTip": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\BussinessLayer\\ResponseModel\\User\\LoginResponseModel.cs",
+              "RelativeToolTip": "BussinessLayer\\ResponseModel\\User\\LoginResponseModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T16:18:36.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UserResponseModel.cs",
+              "DocumentMoniker": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\BussinessLayer\\ResponseModel\\User\\UserResponseModel.cs",
+              "RelativeDocumentMoniker": "BussinessLayer\\ResponseModel\\User\\UserResponseModel.cs",
+              "ToolTip": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\BussinessLayer\\ResponseModel\\User\\UserResponseModel.cs",
+              "RelativeToolTip": "BussinessLayer\\ResponseModel\\User\\UserResponseModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T16:17:36.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GetAllEcologicalCharacteristicRequestModel.cs",
+              "DocumentMoniker": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\BussinessLayer\\RequestModel\\EcologicalCharacteristic\\GetAllEcologicalCharacteristicRequestModel.cs",
+              "RelativeDocumentMoniker": "BussinessLayer\\RequestModel\\EcologicalCharacteristic\\GetAllEcologicalCharacteristicRequestModel.cs",
+              "ToolTip": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\BussinessLayer\\RequestModel\\EcologicalCharacteristic\\GetAllEcologicalCharacteristicRequestModel.cs",
+              "RelativeToolTip": "BussinessLayer\\RequestModel\\EcologicalCharacteristic\\GetAllEcologicalCharacteristicRequestModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T17:55:26.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\DataLayer\\Repository\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "DataLayer\\Repository\\ICategoryRepository.cs",
+              "ToolTip": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\DataLayer\\Repository\\ICategoryRepository.cs",
+              "RelativeToolTip": "DataLayer\\Repository\\ICategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T19:56:53.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IEcologicalCharacteristicRepository.cs",
+              "DocumentMoniker": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\DataLayer\\Repository\\IEcologicalCharacteristicRepository.cs",
+              "RelativeDocumentMoniker": "DataLayer\\Repository\\IEcologicalCharacteristicRepository.cs",
+              "ToolTip": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\DataLayer\\Repository\\IEcologicalCharacteristicRepository.cs",
+              "RelativeToolTip": "DataLayer\\Repository\\IEcologicalCharacteristicRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T17:38:21.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\DataLayer\\Repository\\Implement\\UserRepository.cs",
               "RelativeDocumentMoniker": "DataLayer\\Repository\\Implement\\UserRepository.cs",
@@ -476,80 +605,85 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "OrderDetail.cs",
-              "DocumentMoniker": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\DataLayer\\Entities\\OrderDetail.cs",
-              "RelativeDocumentMoniker": "DataLayer\\Entities\\OrderDetail.cs",
-              "ToolTip": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\DataLayer\\Entities\\OrderDetail.cs",
-              "RelativeToolTip": "DataLayer\\Entities\\OrderDetail.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 27,
+              "Title": "UpdateEcologicalCharacteristicRequestModel.cs",
+              "DocumentMoniker": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\BussinessLayer\\RequestModel\\EcologicalCharacteristic\\UpdateEcologicalCharacteristicRequestModel.cs",
+              "RelativeDocumentMoniker": "BussinessLayer\\RequestModel\\EcologicalCharacteristic\\UpdateEcologicalCharacteristicRequestModel.cs",
+              "ToolTip": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\BussinessLayer\\RequestModel\\EcologicalCharacteristic\\UpdateEcologicalCharacteristicRequestModel.cs",
+              "RelativeToolTip": "BussinessLayer\\RequestModel\\EcologicalCharacteristic\\UpdateEcologicalCharacteristicRequestModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T16:54:40.663Z"
+              "WhenOpened": "2024-10-13T17:50:42.225Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Category.cs",
-              "DocumentMoniker": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\DataLayer\\Entities\\Category.cs",
-              "RelativeDocumentMoniker": "DataLayer\\Entities\\Category.cs",
-              "ToolTip": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\DataLayer\\Entities\\Category.cs",
-              "RelativeToolTip": "DataLayer\\Entities\\Category.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 28,
+              "Title": "CreateEcologicalCharacteristicRequestModel.cs",
+              "DocumentMoniker": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\BussinessLayer\\RequestModel\\EcologicalCharacteristic\\CreateEcologicalCharacteristicRequestModel.cs",
+              "RelativeDocumentMoniker": "BussinessLayer\\RequestModel\\EcologicalCharacteristic\\CreateEcologicalCharacteristicRequestModel.cs",
+              "ToolTip": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\BussinessLayer\\RequestModel\\EcologicalCharacteristic\\CreateEcologicalCharacteristicRequestModel.cs",
+              "RelativeToolTip": "BussinessLayer\\RequestModel\\EcologicalCharacteristic\\CreateEcologicalCharacteristicRequestModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T16:53:40.668Z"
+              "WhenOpened": "2024-10-13T17:34:49.512Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Coupon.cs",
-              "DocumentMoniker": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\DataLayer\\Entities\\Coupon.cs",
-              "RelativeDocumentMoniker": "DataLayer\\Entities\\Coupon.cs",
-              "ToolTip": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\DataLayer\\Entities\\Coupon.cs",
-              "RelativeToolTip": "DataLayer\\Entities\\Coupon.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T16:54:41.683Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 29,
               "Title": "EcologicalCharacteristic.cs",
               "DocumentMoniker": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\DataLayer\\Entities\\EcologicalCharacteristic.cs",
               "RelativeDocumentMoniker": "DataLayer\\Entities\\EcologicalCharacteristic.cs",
               "ToolTip": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\DataLayer\\Entities\\EcologicalCharacteristic.cs",
               "RelativeToolTip": "DataLayer\\Entities\\EcologicalCharacteristic.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T16:54:44.853Z",
+              "WhenOpened": "2024-10-18T19:19:35.262Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Order.cs",
-              "DocumentMoniker": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\DataLayer\\Entities\\Order.cs",
-              "RelativeDocumentMoniker": "DataLayer\\Entities\\Order.cs",
-              "ToolTip": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\DataLayer\\Entities\\Order.cs",
-              "RelativeToolTip": "DataLayer\\Entities\\Order.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 31,
+              "Title": "IUserRepositoty.cs",
+              "DocumentMoniker": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\DataLayer\\Repository\\IUserRepositoty.cs",
+              "RelativeDocumentMoniker": "DataLayer\\Repository\\IUserRepositoty.cs",
+              "ToolTip": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\DataLayer\\Repository\\IUserRepositoty.cs",
+              "RelativeToolTip": "DataLayer\\Repository\\IUserRepositoty.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T16:54:41.076Z"
+              "WhenOpened": "2024-10-11T17:35:46.137Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "SwaggerConfig.cs",
-              "DocumentMoniker": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\BonsaiShop\\AppStarts\\SwaggerConfig.cs",
-              "RelativeDocumentMoniker": "BonsaiShop\\AppStarts\\SwaggerConfig.cs",
-              "ToolTip": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\BonsaiShop\\AppStarts\\SwaggerConfig.cs",
-              "RelativeToolTip": "BonsaiShop\\AppStarts\\SwaggerConfig.cs",
+              "DocumentIndex": 30,
+              "Title": "db_aad141_exe201Context.cs",
+              "DocumentMoniker": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\DataLayer\\DBContext\\db_aad141_exe201Context.cs",
+              "RelativeDocumentMoniker": "DataLayer\\DBContext\\db_aad141_exe201Context.cs",
+              "ToolTip": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\DataLayer\\DBContext\\db_aad141_exe201Context.cs",
+              "RelativeToolTip": "DataLayer\\DBContext\\db_aad141_exe201Context.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-12T05:01:16.076Z"
+              "WhenOpened": "2024-10-18T19:16:38.205Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 32,
+              "Title": "GetAllUserRequestModel.cs",
+              "DocumentMoniker": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\BussinessLayer\\RequestModel\\User\\GetAllUserRequestModel.cs",
+              "RelativeDocumentMoniker": "BussinessLayer\\RequestModel\\User\\GetAllUserRequestModel.cs",
+              "ToolTip": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\BussinessLayer\\RequestModel\\User\\GetAllUserRequestModel.cs",
+              "RelativeToolTip": "BussinessLayer\\RequestModel\\User\\GetAllUserRequestModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T17:12:20.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
               "Title": "RegisterRequestModel.cs",
               "DocumentMoniker": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\BussinessLayer\\RequestModel\\User\\RegisterRequestModel.cs",
               "RelativeDocumentMoniker": "BussinessLayer\\RequestModel\\User\\RegisterRequestModel.cs",
@@ -557,11 +691,12 @@
               "RelativeToolTip": "BussinessLayer\\RequestModel\\User\\RegisterRequestModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T17:12:26.782Z"
+              "WhenOpened": "2024-10-11T17:12:26.782Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 34,
               "Title": "LoginRequestModel.cs",
               "DocumentMoniker": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\BussinessLayer\\RequestModel\\User\\LoginRequestModel.cs",
               "RelativeDocumentMoniker": "BussinessLayer\\RequestModel\\User\\LoginRequestModel.cs",
@@ -569,71 +704,37 @@
               "RelativeToolTip": "BussinessLayer\\RequestModel\\User\\LoginRequestModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T16:18:38.44Z"
+              "WhenOpened": "2024-10-11T16:18:38.44Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "db_aad141_exe201Context.cs",
-              "DocumentMoniker": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\DataLayer\\DBContext\\db_aad141_exe201Context.cs",
-              "RelativeDocumentMoniker": "DataLayer\\DBContext\\db_aad141_exe201Context.cs",
-              "ToolTip": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\DataLayer\\DBContext\\db_aad141_exe201Context.cs",
-              "RelativeToolTip": "DataLayer\\DBContext\\db_aad141_exe201Context.cs",
-              "ViewState": "AQIAAM4AAAAAAAAAAAAYwN4AAAAuAAAA",
+              "DocumentIndex": 35,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\BussinessLayer\\Service\\IUserService.cs",
+              "RelativeDocumentMoniker": "BussinessLayer\\Service\\IUserService.cs",
+              "ToolTip": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\BussinessLayer\\Service\\IUserService.cs",
+              "RelativeToolTip": "BussinessLayer\\Service\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T16:53:46.987Z"
+              "WhenOpened": "2024-10-11T16:17:54.7Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "User.cs",
-              "DocumentMoniker": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\DataLayer\\Entities\\User.cs",
-              "RelativeDocumentMoniker": "DataLayer\\Entities\\User.cs",
-              "ToolTip": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\DataLayer\\Entities\\User.cs",
-              "RelativeToolTip": "DataLayer\\Entities\\User.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBcAAAAWAAAA",
+              "DocumentIndex": 37,
+              "Title": "BaseReponse.cs",
+              "DocumentMoniker": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\BussinessLayer\\ResponseModel\\BaseResponse\\BaseReponse.cs",
+              "RelativeDocumentMoniker": "BussinessLayer\\ResponseModel\\BaseResponse\\BaseReponse.cs",
+              "ToolTip": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\BussinessLayer\\ResponseModel\\BaseResponse\\BaseReponse.cs",
+              "RelativeToolTip": "BussinessLayer\\ResponseModel\\BaseResponse\\BaseReponse.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAxwDQAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T16:54:42.827Z"
+              "WhenOpened": "2024-10-11T17:10:10.882Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "AutoMapperConfig.cs",
-              "DocumentMoniker": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\BonsaiShop\\AppStarts\\AutoMapperConfig.cs",
-              "RelativeDocumentMoniker": "BonsaiShop\\AppStarts\\AutoMapperConfig.cs",
-              "ToolTip": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\BonsaiShop\\AppStarts\\AutoMapperConfig.cs",
-              "RelativeToolTip": "BonsaiShop\\AppStarts\\AutoMapperConfig.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T17:31:13.806Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "UpdateRequestModel.cs",
-              "DocumentMoniker": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\BussinessLayer\\RequestModel\\User\\UpdateRequestModel.cs",
-              "RelativeDocumentMoniker": "BussinessLayer\\RequestModel\\User\\UpdateRequestModel.cs",
-              "ToolTip": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\BussinessLayer\\RequestModel\\User\\UpdateRequestModel.cs",
-              "RelativeToolTip": "BussinessLayer\\RequestModel\\User\\UpdateRequestModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA8AAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T17:11:41.486Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "Program.cs",
-              "DocumentMoniker": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\BonsaiShop\\Program.cs",
-              "RelativeDocumentMoniker": "BonsaiShop\\Program.cs",
-              "ToolTip": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\BonsaiShop\\Program.cs",
-              "RelativeToolTip": "BonsaiShop\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T17:27:41.467Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 36,
               "Title": "AuthConfig.cs",
               "DocumentMoniker": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\BonsaiShop\\AppStarts\\AuthConfig.cs",
               "RelativeDocumentMoniker": "BonsaiShop\\AppStarts\\AuthConfig.cs",
@@ -645,7 +746,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 38,
+              "Title": "UpdateRequestModel.cs",
+              "DocumentMoniker": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\BussinessLayer\\RequestModel\\User\\UpdateRequestModel.cs",
+              "RelativeDocumentMoniker": "BussinessLayer\\RequestModel\\User\\UpdateRequestModel.cs",
+              "ToolTip": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\BussinessLayer\\RequestModel\\User\\UpdateRequestModel.cs",
+              "RelativeToolTip": "BussinessLayer\\RequestModel\\User\\UpdateRequestModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA8AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T17:11:41.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\BonsaiShop\\Program.cs",
+              "RelativeDocumentMoniker": "BonsaiShop\\Program.cs",
+              "ToolTip": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\BonsaiShop\\Program.cs",
+              "RelativeToolTip": "BonsaiShop\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T17:27:41.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
               "Title": "BonsaiShop.csproj",
               "DocumentMoniker": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\BonsaiShop\\BonsaiShop.csproj",
               "RelativeDocumentMoniker": "BonsaiShop\\BonsaiShop.csproj",
@@ -657,67 +783,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "OrderActivity.cs",
-              "DocumentMoniker": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\DataLayer\\Entities\\OrderActivity.cs",
-              "RelativeDocumentMoniker": "DataLayer\\Entities\\OrderActivity.cs",
-              "ToolTip": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\DataLayer\\Entities\\OrderActivity.cs",
-              "RelativeToolTip": "DataLayer\\Entities\\OrderActivity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T16:54:39.806Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "UserResponseModel.cs",
-              "DocumentMoniker": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\BussinessLayer\\ResponseModel\\User\\UserResponseModel.cs",
-              "RelativeDocumentMoniker": "BussinessLayer\\ResponseModel\\User\\UserResponseModel.cs",
-              "ToolTip": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\BussinessLayer\\ResponseModel\\User\\UserResponseModel.cs",
-              "RelativeToolTip": "BussinessLayer\\ResponseModel\\User\\UserResponseModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBUAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T16:17:36.543Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "Payment.cs",
-              "DocumentMoniker": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\DataLayer\\Entities\\Payment.cs",
-              "RelativeDocumentMoniker": "DataLayer\\Entities\\Payment.cs",
-              "ToolTip": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\DataLayer\\Entities\\Payment.cs",
-              "RelativeToolTip": "DataLayer\\Entities\\Payment.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T16:54:40.233Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "Product.cs",
-              "DocumentMoniker": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\DataLayer\\Entities\\Product.cs",
-              "RelativeDocumentMoniker": "DataLayer\\Entities\\Product.cs",
-              "ToolTip": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\DataLayer\\Entities\\Product.cs",
-              "RelativeToolTip": "DataLayer\\Entities\\Product.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T16:54:43.285Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "LoginResponseModel.cs",
-              "DocumentMoniker": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\BussinessLayer\\ResponseModel\\User\\LoginResponseModel.cs",
-              "RelativeDocumentMoniker": "BussinessLayer\\ResponseModel\\User\\LoginResponseModel.cs",
-              "ToolTip": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\BussinessLayer\\ResponseModel\\User\\LoginResponseModel.cs",
-              "RelativeToolTip": "BussinessLayer\\ResponseModel\\User\\LoginResponseModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T16:18:36.874Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 41,
               "Title": "appsettings.json",
               "DocumentMoniker": "F:\\FA24\\EXE201\\Project\\EXE201_FA24_BonsaiShop\\BonsaiShop\\BonsaiShop\\appsettings.json",
               "RelativeDocumentMoniker": "BonsaiShop\\appsettings.json",
